@@ -7,3 +7,5 @@
 3.Longest Prime Factor
 
 4.Largest Palindrome number
+
+5.Smallest positive number divisble from 1 to 20
