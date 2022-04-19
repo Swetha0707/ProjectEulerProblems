@@ -9,3 +9,5 @@
 4.Largest Palindrome number
 
 5.Smallest positive number divisble from 1 to 20
+
+6.Sum Square difference
