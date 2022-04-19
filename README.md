@@ -11,3 +11,5 @@
 5.Smallest positive number divisble from 1 to 20
 
 6.Sum Square difference
+
+7.10001st prime number 
