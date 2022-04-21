@@ -15,3 +15,5 @@
 7.10001st prime number 
 
 8.Largest Product in a Series
+
+9.Special Pythogorian Triplet
