@@ -17,3 +17,5 @@
 8.Largest Product in a Series
 
 9.Special Pythogorian Triplet
+
+10.Sum of prime number below 2000000
