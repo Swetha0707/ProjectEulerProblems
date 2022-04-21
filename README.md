@@ -23,3 +23,5 @@
 11.Largest Product in a Grid
 
 12.Highly Divisible Triangular Number
+
+13.Sum of first 10 digits
