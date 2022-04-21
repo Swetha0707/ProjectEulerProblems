@@ -13,3 +13,5 @@
 6.Sum Square difference
 
 7.10001st prime number 
+
+8.Largest Product in a Series
