@@ -31,3 +31,5 @@
 15.Lattice Paths
 
 16.Power Digit Sum
+
+17.Number Letter Counts
