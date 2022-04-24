@@ -33,3 +33,5 @@
 16.Power Digit Sum
 
 17.Number Letter Counts
+
+18.Maximum Path Sum
