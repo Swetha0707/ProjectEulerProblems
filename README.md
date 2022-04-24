@@ -29,3 +29,5 @@
 14.Longest Collatz Sequence Number
 
 15.Lattice Paths
+
+16.Power Digit Sum
