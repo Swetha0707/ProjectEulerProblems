@@ -43,3 +43,5 @@
 21.Amicable Numbers Sum
 
 22.Names Scores
+
+23.Non Abundant Sums
