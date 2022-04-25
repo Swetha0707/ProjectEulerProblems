@@ -45,3 +45,5 @@
 22.Names Scores
 
 23.Non Abundant Sums
+
+24.Lexicographical Permutations
