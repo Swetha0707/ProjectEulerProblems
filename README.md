@@ -41,3 +41,5 @@
 20.Factorial Digit Sum
 
 21.Amicable Numbers Sum
+
+22.Names Scores
