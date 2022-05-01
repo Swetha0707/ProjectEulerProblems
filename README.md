@@ -47,3 +47,15 @@
 23.Non Abundant Sums
 
 24.Lexicographical Permutations
+
+25.1000-digit Fibonacci number
+
+26.	Reciprocal cycles
+
+27.Quadratic primes
+
+28.Number spiral diagonals
+
+29.	Distinct powers
+
+30.Digit fifth powers
