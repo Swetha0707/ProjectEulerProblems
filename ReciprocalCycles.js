@@ -26,18 +26,7 @@ Find the value of d < 1000 for which 1/d contains the longest recurring cycle in
     return t;
   }
  
-  function solution() {
-    var max = 0;
-    var max_p = 0;
-    for (var d = 1; d < 1000; d++) {
-      var tmp = cycleLength(d);
-      if (max < tmp) {
-        max_p = d;
-        max = tmp;
-      }
-    }
-    return max_p;
-  }
+  
   function solution() {
     var primes = [7, 11, 13, 17, 19, 23, 29,
     31, 37, 41, 43, 47, 53, 59, 61, 67, 71,
