@@ -48,7 +48,7 @@ function isPrime(n)
         }
         return false;
     }
-let Number=1000000
+let Number=1000000;
 let countOfCircularPrimes=0
 for(let i=0;i<Number;i++){
     if(checkCircular(i)){
