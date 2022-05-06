@@ -78,3 +78,4 @@
 
 39.Integer Right Triangles
 
+40.Champernowne's constant
