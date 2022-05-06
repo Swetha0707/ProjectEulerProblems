@@ -59,3 +59,11 @@
 29.	Distinct powers
 
 30.Digit fifth powers
+
+31.Coin Sums
+
+32.Pandigital Products
+
+33.Digital cancelling fractions
+
+34.Digit factorials
