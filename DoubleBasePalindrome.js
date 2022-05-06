@@ -25,19 +25,19 @@ function isPalindrome(i, k)
     let temp = i;
  
     // m stores reverse of a number
-    let m = 0;
+    let reverse = 0;
     while (temp > 0)
     {
-        m = temp % 10 + m * 10;
+        reverse = temp % 10 + reverse * 10;
         temp = parseInt(temp / 10, 10);
     }
  
     // If reverse is equal to number
-    if (m == i)
+    if (reverse == i)
     {
          
         // Converting to base k
-        let str = intToString(m, k);
+        let str = intToString(reverse, k);
         let ch = str.split('');
         ch.reverse();
         let str1 = ch.join("");
