@@ -69,3 +69,6 @@
 34.Digit factorials
 
 35.Circular Primes
+
+36.Double base palindromes
+
