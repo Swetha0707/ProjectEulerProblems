@@ -75,3 +75,6 @@
 37.Truncatable primes
 
 38.Pandigital Multiples
+
+39.Integer Right Triangles
+
