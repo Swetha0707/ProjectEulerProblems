@@ -72,3 +72,6 @@
 
 36.Double base palindromes
 
+37.Truncatable primes
+
+38.Pandigital Multiples
