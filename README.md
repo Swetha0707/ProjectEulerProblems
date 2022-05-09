@@ -47,3 +47,35 @@
 23.Non Abundant Sums
 
 24.Lexicographical Permutations
+
+25.1000-digit Fibonacci number
+
+26.	Reciprocal cycles
+
+27.Quadratic primes
+
+28.Number spiral diagonals
+
+29.	Distinct powers
+
+30.Digit fifth powers
+
+31.Coin Sums
+
+32.Pandigital Products
+
+33.Digital cancelling fractions
+
+34.Digit factorials
+
+35.Circular Primes
+
+36.Double base palindromes
+
+37.Truncatable primes
+
+38.Pandigital Multiples
+
+39.Integer Right Triangles
+
+40.Champernowne's constant
