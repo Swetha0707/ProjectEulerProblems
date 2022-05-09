@@ -79,3 +79,5 @@
 39.Integer Right Triangles
 
 40.Champernowne's constant
+
+41.Pandigital prime number
